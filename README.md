@@ -5,6 +5,7 @@ AIGC（AI-Generated Content）指人工智能生成内容。传统的UGC/PGC/OGC
 
 
 20230422新增
+- Bark：
 - 中国法律AI助手：https://github.com/LuoTang2413/AIGC/blob/main/ChatGPT/%E4%B8%AD%E5%9B%BD%E6%B3%95%E5%BE%8BAI%E5%8A%A9%E6%89%8B.md
 - ChatGLM-6B：https://github.com/LuoTang2413/AIGC/blob/main/%E5%A4%A7%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B/ChatGLM-6B.md
 - MOSS：https://github.com/LuoTang2413/AIGC/blob/main/%E5%A4%A7%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B/MOSS.md
